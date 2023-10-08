@@ -1,4 +1,4 @@
-# A/B test(Perform and analysie results)
+# A/B test(Perform And Analysie Results)
 
 ### Introduction to the project
 In this project, our goal is to determine if a new version of a website page outperforms an old version. To achieve this, we conduct an experiment where we collect data on visitor behavior from both pages. We then analyze the data using an A/B test to determine if there is a statistically significant improvement. By applying practical statistics, we can make an informed decision on whether the new version should be implemented or not.
