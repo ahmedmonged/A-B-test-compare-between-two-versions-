@@ -9,7 +9,7 @@ In this project, our goal is to perform an A/B test to determine if a new versio
 
 -------------------------------------------------------------------------------------
 
-### what is an A/B test?
+## what is an A/B test?
 An A/B test, also known as a split test, is a statistical experiment used to compare two different versions of a webpage, email, or any other marketing asset. The goal of an A/B test is to determine which version performs better in terms of a specific metric, such as click-through rate, conversion rate, or revenue.
 
 This allows you to make data-driven decisions and optimize your marketing assets for improved performance.
@@ -18,7 +18,7 @@ A/B testing is widely used in various industries, including e-commerce, digital 
 
 -------------------------------------------------------------------------------------
 
-### Prerequisites
+## Prerequisites
 This is a Python project so you need a Python notebook like Jupyter or  any alternative and this is generally what will be needed:
 - Jupyter notebook
 - Pandas library
