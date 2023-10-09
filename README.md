@@ -15,10 +15,19 @@ A/B testing is widely used in various industries, including e-commerce, digital 
 -------------------------------------------------------------------------------------
 
 ### Prerequisites
-This is a Python project so you need a Python notebook like jupyter or  any alternative and this is generally what will be needed:
+This is a Python project so you need a Python notebook like Jupyter or  any alternative and this is generally what will be needed:
 - Jupyter notebook
 - Pandas library
 - Numpy library
 - Matplotlib library
 - Statsmodels library
 - Scikit-learn library
+
+-------------------------------------------------------------------------------------
+
+### Files 
+- [countries.csv] (https://github.com/ahmedmonged/A-B-test-compare-between-two-versions-/blob/main/countries.csv)
+- [ab_data.csv] (https://github.com/ahmedmonged/A-B-test-compare-between-two-versions-/blob/main/ab_data.csv)
+- [Analyze_ab_test_results_notebook .html] (https://github.com/ahmedmonged/A-B-test-compare-between-two-versions-/blob/main/Analyze_ab_test_results_notebook%20.html)
+- [Analyze_ab_test_results_notebook.ipynb] (https://github.com/ahmedmonged/A-B-test-compare-between-two-versions-/blob/main/Analyze_ab_test_results_notebook.ipynb)
+
