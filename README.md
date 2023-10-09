@@ -26,8 +26,9 @@ This is a Python project so you need a Python notebook like Jupyter or  any alte
 -------------------------------------------------------------------------------------
 
 ### Files 
-- [countries.csv](https://github.com/ahmedmonged/A-B-test-compare-between-two-versions-/blob/main/countries.csv)
-- [ab_data.csv](https://github.com/ahmedmonged/A-B-test-compare-between-two-versions-/blob/main/ab_data.csv)
-- [Analyze_ab_test_results_notebook .html](https://github.com/ahmedmonged/A-B-test-compare-between-two-versions-/blob/main/Analyze_ab_test_results_notebook%20.html)
-- [Analyze_ab_test_results_notebook.ipynb](https://github.com/ahmedmonged/A-B-test-compare-between-two-versions-/blob/main/Analyze_ab_test_results_notebook.ipynb)
+- [ab_data.csv](https://github.com/ahmedmonged/A-B-test-compare-between-two-versions-/blob/main/ab_data.csv): Data collected from visitors to perform An A/B test.
+- [countries.csv](https://github.com/ahmedmonged/A-B-test-compare-between-two-versions-/blob/main/countries.csv): Additional Data collected from visitors to be used in regression. 
+- [Analyze_ab_test_results_notebook.ipynb](https://github.com/ahmedmonged/A-B-test-compare-between-two-versions-/blob/main/Analyze_ab_test_results_notebook.ipynb): The Notebook has all the work from codes, Step-by-step explanations, visualizations, and conclusions.
+- [Analyze_ab_test_results_notebook .html](https://github.com/ahmedmonged/A-B-test-compare-between-two-versions-/blob/main/Analyze_ab_test_results_notebook%20.html): The Notebook in HTML format so it can opened with a browser.
+
 
