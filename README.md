@@ -10,5 +10,11 @@ This allows you to make data-driven decisions and optimize your marketing assets
 
 A/B testing is widely used in various industries, including e-commerce, digital marketing, and web development, to continuously improve user experiences and drive better business outcomes.
 
-
-
+### Prerequisites
+This is a Python project so you need a Python notebook like jupyter or  any alternative and this is generally what will be needed:
+- Jupyter notebook
+- Pandas library
+- Numpy library
+- Matplotlib library
+- Statsmodels library
+- Scikit-learn library
